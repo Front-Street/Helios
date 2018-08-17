@@ -1,0 +1,40 @@
+dl {
+  border-bottom: 1px solid lightgray;
+}
+
+dd {
+  margin: 2;
+  padding: 0 0 0 1em;
+}
+
+p {
+  margin: 2;
+}
+
+.mutation {
+  font-weight: bold;
+}
+
+.change-type {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.addition {
+  color: limegreen;
+  font-weight: bold;
+}
+
+.edit {
+  color: blue;
+  font-weight: bold;
+}
+
+.deletion {
+  color: red;
+  font-weight: bold;
+}
+
+.change {
+  border-top: 1px solid lightgray;
+}
