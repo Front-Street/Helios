@@ -16,7 +16,7 @@ Google Chrome, the Helios extension and the code below in a util file (`Helios.j
 
 ### Installing
 
-After installing the Helios extension, create a file in your project called `Helios.js` containing the following code:
+After installing the [Helios extension](https://chrome.google.com/webstore/detail/helios/mjbbelnbkfohllaknipiibodjnjhofhk), create a file in your project called `Helios.js` containing the following code:
 
 ```
 export default function ApolloDev (configObj) {
